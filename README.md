@@ -7,7 +7,6 @@ The **Smart Warehouse Grid Locator System** is a Java-based console application 
 Each item in the warehouse is stored at a specific coordinate within the grid, allowing precise tracking and easy retrieval. The system demonstrates how real-world warehouse management can be modeled using structured data and object-oriented programming principles.
 
 ---
-
 ## 🎯 Objectives
 
 * To represent a warehouse using a 2D grid structure
